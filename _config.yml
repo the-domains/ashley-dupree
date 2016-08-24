@@ -12,4 +12,8 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.639079206623137
 name: Ashley DuPree
+navigation:
+  - name: portfolio
+    url: www.theashleydupree.com
+    type: external
 title: filmmaker
